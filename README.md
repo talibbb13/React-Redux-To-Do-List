@@ -1,4 +1,4 @@
-# React To-Do List
+# React-Redux To-Do List
 
 A simple and clean To-Do List application built with React, using Redux and Tailwind CSS. Add and remove, with persistence via local storage.
 
@@ -13,7 +13,7 @@ A simple and clean To-Do List application built with React, using Redux and Tail
 1. Clone the repository:
 
    ```
-https://github.com/talibbb13/React-Redux-To-Do-List.git
+   https://github.com/talibbb13/React-Redux-To-Do-List.git
    ```
 
 2. Navigate to the project directory:
